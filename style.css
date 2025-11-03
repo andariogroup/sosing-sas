@@ -89,6 +89,9 @@ html {
     background-size: cover;
     background-position: center;
     background-color: var(--sosing-primary);
+    /* Fallback JPG y preferencia WebP */
+    background-image: url('./img/hero-bg.jpg');
+    background-image: image-set(url('./img/hero-bg.webp') type('image/webp') 1x, url('./img/hero-bg.jpg') type('image/jpeg') 1x);
     min-height: 80vh;
     padding-top: 6rem;
     padding-bottom: 6rem;
