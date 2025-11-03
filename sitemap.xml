@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Reemplaza YOUR-DOMAIN por tu dominio definitivo (incluye https://) -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://YOUR-DOMAIN/</loc>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/ambiental.html</loc>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/hidrico.html</loc>
+  </url>
+  <url>
+    <loc>https://YOUR-DOMAIN/civil.html</loc>
+  </url>
+</urlset>
+

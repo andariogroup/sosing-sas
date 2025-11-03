@@ -1,0 +1,9 @@
+## robots.txt
+# Reemplaza YOUR-DOMAIN por tu dominio definitivo cuando lo tengas.
+
+User-agent: *
+Allow: /
+
+# Sitemap (usa URL absoluta con tu dominio)
+Sitemap: https://YOUR-DOMAIN/sitemap.xml
+
