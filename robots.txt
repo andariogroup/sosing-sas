@@ -5,5 +5,5 @@ User-agent: *
 Allow: /
 
 # Sitemap (usa URL absoluta con tu dominio)
-Sitemap: https://YOUR-DOMAIN/sitemap.xml
+Sitemap: https://sosing-sas.vercel.app/sitemap.xml
 

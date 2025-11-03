@@ -2,16 +2,16 @@
 <!-- Reemplaza YOUR-DOMAIN por tu dominio definitivo (incluye https://) -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://YOUR-DOMAIN/</loc>
+    <loc>https://sosing-sas.vercel.app/</loc>
   </url>
   <url>
-    <loc>https://YOUR-DOMAIN/ambiental.html</loc>
+    <loc>https://sosing-sas.vercel.app/ambiental.html</loc>
   </url>
   <url>
-    <loc>https://YOUR-DOMAIN/hidrico.html</loc>
+    <loc>https://sosing-sas.vercel.app/hidrico.html</loc>
   </url>
   <url>
-    <loc>https://YOUR-DOMAIN/civil.html</loc>
+    <loc>https://sosing-sas.vercel.app/civil.html</loc>
   </url>
 </urlset>
 
