@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Reemplaza YOUR-DOMAIN por tu dominio definitivo (incluye https://) -->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- 
+  Sitemap XML optimizado para SEO
+  Sitio: SOSING S.A.S. | Ingeniería Sostenible
+  Dominio: https://sosing-sas.vercel.app/
+  Última actualización: 2024-12-20
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  
+  <!-- Página principal - Única página del sitio one-page -->
   <url>
     <loc>https://sosing-sas.vercel.app/</loc>
+    <lastmod>2024-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
   </url>
-  <url>
-    <loc>https://sosing-sas.vercel.app/ambiental.html</loc>
-  </url>
-  <url>
-    <loc>https://sosing-sas.vercel.app/hidrico.html</loc>
-  </url>
-  <url>
-    <loc>https://sosing-sas.vercel.app/civil.html</loc>
-  </url>
+  
 </urlset>
-
